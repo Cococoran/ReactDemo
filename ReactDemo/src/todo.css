@@ -1,0 +1,34 @@
+.todo-div {
+	min-height: 300px;
+    margin: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    background: #f0f0f0f0;
+    text-align: left;
+}
+.todoTitle {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bolder;
+	color: black;
+}
+.TodoInput {
+	width: 500px;
+	height: 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-right: 40px;
+    outline: none;
+}
+.TodoButton {
+	width: 150px;
+	height: 30px;
+	border-radius: 10px;
+	text-align: center;
+    background: lightblue;
+    outline: none;
+}
+
